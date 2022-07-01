@@ -1,0 +1,15 @@
+D:\Files\TestApplication\TestApplication\bin\Debug\net6.0\TestApplication.exe
+D:\Files\TestApplication\TestApplication\bin\Debug\net6.0\TestApplication.deps.json
+D:\Files\TestApplication\TestApplication\bin\Debug\net6.0\TestApplication.runtimeconfig.json
+D:\Files\TestApplication\TestApplication\bin\Debug\net6.0\TestApplication.dll
+D:\Files\TestApplication\TestApplication\bin\Debug\net6.0\ref\TestApplication.dll
+D:\Files\TestApplication\TestApplication\bin\Debug\net6.0\TestApplication.pdb
+D:\Files\TestApplication\TestApplication\obj\Debug\net6.0\TestApplication.csproj.AssemblyReference.cache
+D:\Files\TestApplication\TestApplication\obj\Debug\net6.0\TestApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files\TestApplication\TestApplication\obj\Debug\net6.0\TestApplication.AssemblyInfoInputs.cache
+D:\Files\TestApplication\TestApplication\obj\Debug\net6.0\TestApplication.AssemblyInfo.cs
+D:\Files\TestApplication\TestApplication\obj\Debug\net6.0\TestApplication.csproj.CoreCompileInputs.cache
+D:\Files\TestApplication\TestApplication\obj\Debug\net6.0\TestApplication.dll
+D:\Files\TestApplication\TestApplication\obj\Debug\net6.0\ref\TestApplication.dll
+D:\Files\TestApplication\TestApplication\obj\Debug\net6.0\TestApplication.pdb
+D:\Files\TestApplication\TestApplication\obj\Debug\net6.0\TestApplication.genruntimeconfig.cache
