@@ -61,7 +61,7 @@ namespace TestApplication.Test
         }
 
         [Fact]
-        public void SAD()
+        public void QuickSort_With_OwnAlghoritm_Contains()
         {
             List<string> list = new()
             {  "Ru", "Us", "Uz", "Kz", "Kr", "Tj", "Az", "Bl", "Ua" };
